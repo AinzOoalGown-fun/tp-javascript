@@ -1,0 +1,19 @@
+form {
+    
+    margin: 0 auto;
+    width: 400px;
+   
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+  }
+  
+  form div + div {
+    margin-top: 1em;
+  }
+  
+  input:focus, textarea:focus {
+  
+    border-color: #3054d0;
+  }
+  
